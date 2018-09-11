@@ -80,7 +80,7 @@
                     <ul class="nav nav-tabs">
                         <li class="active">
                             <a href="#blog" data-toggle="tab">
-                                <i class="material-icons">people</i> OUR PRODUCT
+                                <i class="material-icons">people</i> PRODUCT
                             </a>
                         </li>
                         <li >
