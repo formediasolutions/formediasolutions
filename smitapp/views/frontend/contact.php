@@ -14,7 +14,7 @@
                     </li>
                     <li <?php echo ($active_page == 'contact' ? 'class="active"' : ''); ?>>
                         <a href="<?php echo base_url('contact'); ?>">
-                            <i class=""></i> <strong>Kontak</strong>
+                            <i class=""></i> <strong>Kontak tes</strong>
                         </a>
                     </li>
                 </ol>
